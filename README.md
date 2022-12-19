@@ -5,6 +5,7 @@ Thành viên thực hiện:
   <h5>  Đinh Bảo Minh</h5>
   <h5>  Trần Thanh Khiêm</h5>
   <h5>  Huỳnh Thanh Phong<h5>
+<h4>File app.py: code chạy chương trình</h4>
 # Các file cần thiết : https://drive.google.com/drive/u/2/folders/1NiEOKORtcYR0-8aX4sjYa2RpYxV50Xdb.
 <h2>Mô tả thư mục lưu trữ</h2>
 <h5>Folder Buildmodel chứa code xây dựng model chính và 25 model nhỏ.</h5>
